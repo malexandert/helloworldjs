@@ -1,0 +1,19 @@
+{
+  "name": "helloworld.js",
+  "version": "0.0.0",
+  "description": "",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malexandert/helloworldheroku"
+  },
+  "author": "malexandert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malexandert/helloworldheroku/issues"
+  },
+  "homepage": "https://github.com/malexandert/helloworldheroku"
+}
